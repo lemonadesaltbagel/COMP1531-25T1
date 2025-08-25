@@ -1,0 +1,33 @@
+{
+  "quizId": 1,
+  "userId": 1,
+  "name": "Sample Quiz",
+  "description": "A test quiz",
+  "timeCreated": 1745630197,
+  "timeLastEdited": 1745630197,
+  "timeLimit": 4,
+  "thumbnailUrl": "",
+  "games": [],
+  "questions": [
+    {
+      "questionId": 1,
+      "question": "Who is the Monarch of England?",
+      "timeLimit": 4,
+      "points": 5,
+      "answerOptions": [
+        {
+          "answerId": 1,
+          "answer": "Prince Charles",
+          "colour": "blue",
+          "correct": true
+        },
+        {
+          "answerId": 2,
+          "answer": "Prince Harry",
+          "colour": "pink",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
